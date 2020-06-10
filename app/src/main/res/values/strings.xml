@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GiphyFriend</string>
+    <string name="network_error">Network error.</string>
+    <string name="fragment_trending">Trending</string>
+    <string name="fragment_favorite">Favorite</string>
+    <string name="list_item_image_view_description">Gif</string>
+</resources>
